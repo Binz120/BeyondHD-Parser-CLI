@@ -24,6 +24,6 @@
                         
 `-r` RESOLUTION, Filter by resolution in the format of '720p', '1080p
 
-`-x` TIME_OUT, Time out in seconds, default is 60T
+`-x` TIME_OUT, Time out in seconds, default is 60 seconds
                         
 `-f` {dict,list,string,string_w_link}, Format to return results in
